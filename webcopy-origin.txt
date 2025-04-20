@@ -1,0 +1,8 @@
+Uri: http://satyakiadak.byethost7.com/
+File Name: D:\SATYAKI ADAK\web test\satyakiadak.byethost7.com\index.htm
+Content Type: text/html
+
+Uri: http://satyakiadak.byethost7.com/aes.js
+File Name: D:\SATYAKI ADAK\web test\satyakiadak.byethost7.com\aes.js
+Content Type: application/javascript
+
